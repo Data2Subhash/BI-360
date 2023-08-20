@@ -114,7 +114,7 @@ This dataset provides comprehensive information about customers, markets, produc
 
 ## Data Model
 
-![Data Modeling](images/datamodel.png)
+![Data Modeling]
 
 Data modeling plays a pivotal role and serves as the foundation for generating meaningful reports. The entire framework of visualizations is constructed upon a well-designed data model. Neglecting proper data modeling can have adverse effects on the overall performance of the generated reports.
 
@@ -129,7 +129,7 @@ You can find the interactive dashboard [**here**]
 ![Data Modeling](Homepage.png)
 
 ### Finance View
-![Data Modeling](Finance View.png)
+![Data Modeling](FinanceView.png)
 
 ### Sales View
 ![Data Modeling](SalesView.png)
