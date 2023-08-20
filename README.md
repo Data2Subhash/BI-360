@@ -141,7 +141,7 @@ You can find the interactive dashboard [**here**]
 ![Data Modeling](SupplyChainView.png)
 
 ### Executive View
-![Data Modeling](Executive_View.png)
+![Data Modeling](ExecutiveView.png)
 
 ### Info Page
 ![Data Modeling](Info.png)
