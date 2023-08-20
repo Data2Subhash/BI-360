@@ -129,7 +129,7 @@ You can find the interactive dashboard [**here**]
 ![Data Modeling](Homepage.png)
 
 ### Finance View
-![Data Modeling](FinanceView.png)
+![Data Modeling](Finance View.png)
 
 ### Sales View
 ![Data Modeling](SalesView.png)
