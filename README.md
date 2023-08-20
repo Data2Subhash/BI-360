@@ -129,19 +129,19 @@ You can find the interactive dashboard [**here**]
 ![Data Modeling](Homepage.png)
 
 ### Finance View
-![Data Modeling](Finance View.png)
+![Data Modeling](FinanceView.png)
 
 ### Sales View
-![Data Modeling](Sales View.png)
+![Data Modeling](SalesView.png)
 
 ### Marketing View
-![Data Modeling](Marketing View.png)
+![Data Modeling](MarketingView.png)
 
 ### Supply Chain View
-![Data Modeling](Supply Chain View.png)
+![Data Modeling](SupplyChainView.png)
 
 ### Executive View
-![Data Modeling](Executive View.png)
+![Data Modeling](ExecutiveView.png)
 
 ### Info Page
 ![Data Modeling](Info.png)
