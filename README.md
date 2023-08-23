@@ -4,7 +4,7 @@
 
 Welcome to the AtliQ Hardware Data Analytics project repository! In this project, we have implemented data analytics using Power BI to empower AtliQ Hardware with the ability to make data-driven decisions, surpass competitors in the market, and drive growth in various aspects of their business, including finance, sales, marketing, and supply chain management.
 
-You can watch the presentation video [**here**]https://www.youtube.com/watch?v=9O_bZnX7g38
+You can watch the presentation video [**here**](https://www.youtube.com/watch?v=9O_bZnX7g38)
 
 ## Table of Contents
 
@@ -124,7 +124,7 @@ Remember, a robust data model is the cornerstone of effective data analysis and 
 
 ## Dashboard
 
-You can find the interactive dashboard [**here**]https://app.powerbi.com/view?r=eyJrIjoiMzA0YTQwOGUtMzQ3My00MDFjLWEzNWEtZjQ0NzdmZWVlNDViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+You can find the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiMzA0YTQwOGUtMzQ3My00MDFjLWEzNWEtZjQ0NzdmZWVlNDViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ### Home View
 ![Data Modeling](Homepage.png)
 
